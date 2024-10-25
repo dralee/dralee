@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dralee)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dralee">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dralee&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/dralee">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dralee&layout=compact&langs_count=8&card_width=320" />
 </a>
