@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/dralee/dralee/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/neozhu/neozhu/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/dralee/dralee/output/github-contribution-grid-snake.svg"
   />
 </picture>
